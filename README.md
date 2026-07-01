@@ -97,7 +97,7 @@ Frontend Developer | Web Development Learner | Python Enthusiast
 
 ## 📄 License
 
-This project is developed for educational purposes as part of the **SkillCraft Technology Web Development Internship – Task 04**.
+This project is created for educational and internship purposes.
 
 ---
 
